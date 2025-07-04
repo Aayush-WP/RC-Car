@@ -72,3 +72,8 @@ This project implements a **tank-style RC car** controlled via a **FlySky FS-i6 
 5. **Control the Car** using the right joystick on your FlySky FS-i6.
 
 
+## Video
+
+- ![Watch Demo](https://drive.google.com/file/d/1MseBLSsVP5M2Rwaa5-f8mhz3zf7QtKl4/view?usp=sharing)
+
+
